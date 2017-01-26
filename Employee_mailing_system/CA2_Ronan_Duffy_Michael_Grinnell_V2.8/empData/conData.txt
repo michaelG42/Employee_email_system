@@ -1,0 +1,8 @@
+3;Jack O'Neill;0418248052;jackONeil@theFarm.org;1;9;1962;Cheese;false;200.0;50.0
+6;Adam West;0876534028;adamW@theFarm.org;19;9;1928;Cheese;false;48.0;9.95
+8;George Clooney;086554389;george@theFarm.org;6;5;1961;Cheese;false;200.0;8.68
+11;Elvis Presley;0819077621;elvis@theFarm.org;8;1;1935;Cheese;false;65.0;9.99
+14;John F Kennedy ;081899043;jfk@theFarm.org;2;5;1917;Cheese;false;35.0;12.85
+15;Andy Kaufman;0896453332;andy@theFarm.org;17;1;1949;Cheese;false;56.0;13.56
+16;Arthur Dent;08655422378;Arthur@theFarm.org;11;6;1960;Cheese;false;2.0;19.2
+18;Zaphod Beeblebrox;0861423367;Zaphod@theFarm.org;12;1;1907;Cheese;false;100.5;17.63

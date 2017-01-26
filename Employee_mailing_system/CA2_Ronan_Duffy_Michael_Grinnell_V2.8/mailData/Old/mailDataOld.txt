@@ -1,0 +1,12 @@
+1000;joe@theFarm.org;pete@theFarm.org::;Time travel;9;11;2016;High;hello me
+1003;mike@theFarm.org;pete@theFarm.org::;stuff;15;8;2016;High;more stuff
+1002;joe@theFarm.org;mark@theFarm.org::;comparators;15;11;2016;Medium;dont think i know how to use comparators
+1005;joe@theFarm.org;mark@theFarm.org::;airplanes;1;7;2016;High;hey whats up
+1006;joe@theFarm.org;mark@theFarm.org::;test;23;9;2015;High;testing blah bla blha
+1007;joe@theFarm.org;mark@theFarm.org::;the futre;15;12;2015;High;im in the futurrrre
+1008;joe@theFarm.org;mark@theFarm.org::;no subject;20;11;2017;Low;dfhtyd
+1001;joe@theFarm.org;joe@theFarm.org::;movie night;10;4;2016;Low;goonna watch some movies
+1004;mike@theFarm.org;joe@theFarm.org::;hey joe;28;10;2016;High;yo joe watz up
+1009;joe@theFarm.org;joe@theFarm.org::;joe hey;21;10;2016;Low;hello how are you
+1011;mike@theFarm.org;mark@theFarm.org::joe@theFarm.org::;testing;23;11;2016;Medium;test tses 123
+1011;mike@theFarm.org;joe@theFarm.org::mike@theFarm.org::pete@theFarm.org::;test again;23;11;2016;Low;yoyoyyo this work yet
