@@ -4,32 +4,6 @@ Any Employee can login using thier employee id and password and can then send an
 An admin can add, update and delete all employee info excluding id which is unique and automaticly generated.
 All iinformation is saved to two text files, one for employee info and the other for mail.
 
-You can log in as any Employee using there ID and password, for simplicity all paswords are set to Cheese by default.(would usually be some combination of date and userName)
-There are administrators and users.
-For simplicity all Agents are admins and all contractors are users.
-
-admin login: ID=4 , password=Cheese.
-user Login: ID=3, password=Cheese.
-
-An admin can add edit and delete employees as well as view all mail. they can also do everything a user can
-A user has restricted acsess they cannot add edit or delete employees, they can only see mail that involves them.
-You will be presented with a list of options to choose from to help navigate the application.
-
-
-*Known Issues*
--A non admin can see employee wages when viewing single employee.
--Date time seconds are not recorded when mailData file saves and seconds for viewing messages are displayed as 0.
--zoned date time is not used for employee birthday, Instead an array of 3 ints is used(zdt is used for everthing else).
--If file contains no data aplication will not load(file must be deleted or have data entered to fix issue).
-
-
-*Changes for another version*
--The main as well as mailstore and employeestore are too long they should be broken down into more classes
--user should be able to search inbox and outbox
--users should be able to save mail list for future use
--incorperate a timeline so you can keep track of when an employee started and how much they are paid in different months etc.
--only certain employees can be admins not all agents and no contractors
-
 Functinality
 *****************
 1) Create and add a new message to the messageStore.

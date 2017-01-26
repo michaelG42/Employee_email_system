@@ -1,9 +1,0 @@
-1000;daniel@theFarm.org;jackONeil@theFarm.org::;Stargate;5;12;2016;7;30;Medium;Jack, I think I have found somthing interesting down by the cattle gaurd, I think we should check it out.
-1001;jackONeil@theFarm.org;Zaphod@theFarm.org::;Stargate;5;12;2016;9;45;High;Daniel, im going fishing. No more crazy adventures for me.
-1002;jackONeil@theFarm.org;Chriss@theFarm.org::;Fishing;5;12;2016;9;48;High;Are you ready to go fishing tommorow?
-1003;Chriss@theFarm.org;jackONeil@theFarm.org::;Fishing;5;12;2016;10;14;Medium;Yes definetly, see you there.
-1004;josh@theFarm.org;Chriss@theFarm.org::;Fishing;5;12;2016;13;43;Low;hey I heard you and jack were going fishing, would it be alright if i came too?
-1005;Chriss@theFarm.org;jackONeil@theFarm.org::;Fishing;5;12;2016;14;5;High;Oh no thanos is asking to come fishing again, Im gonna tell him were not going anymore, just a heads up.
-1006;jackONeil@theFarm.org;Chriss@theFarm.org::;Fishing;5;12;2016;15;30;High;Good I hate that Guy
-1007;Bman@theFarm.org;cBale@theFarm.org::Michael@theFarm.org::adamW@theFarm.org::george@theFarm.org::;Batmen;5;12;2016;18;50;Medium;Guys we need to discuss this ben afleck problem, I am having a meeting down by the tracktors tommorow morning, attendance is manditory.
-1008;jfk@theFarm.org;elvis@theFarm.org::;Farm life;5;12;2016;18;53;Low;So man, how you finding the farm life. I told you it was a good idea. its so much more relaxing than my last job

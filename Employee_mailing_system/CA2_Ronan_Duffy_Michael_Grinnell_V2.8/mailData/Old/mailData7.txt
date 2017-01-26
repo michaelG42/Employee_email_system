@@ -1,6 +1,0 @@
-1000,joe@theFarm.org,pete@theFarm.org,Time travel,12,11,2016,high,hello me
-1001,joe@theFarm.org,joe@theFarm.org,movie night,12,11,2016,low,goonna watch some movies
-1002,joe@theFarm.org,mark@theFarm.org,comparators,12,11,2016,medium,dont think i know how to use comparators
-1003,mike@theFarm.org,pete@theFarm.org,stuff,12,11,2016,high,more stuff
-1004,mike@theFarm.org,joe@theFarm.org,hey joe,12,11,2016,high,yo joe watz up
-1005,joe@theFarm.org,mark@theFarm.org,airplanes,10,12,2016,high,hey whats up

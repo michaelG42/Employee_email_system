@@ -1,3 +1,0 @@
-
-1000,joe@theFarm.org,pete@theFarm.org,Time travel,13,4,1979,high,hello me
-1001,joe@theFarm.org,joe@theFarm.org,movie night,11,1,1969,low,goonna watch some movies
